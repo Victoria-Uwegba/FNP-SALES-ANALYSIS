@@ -16,7 +16,7 @@ This project focuses on analyzing the sales performance of Ferns N Petals (FNP),
 
 ### Data Sources
 
-Sales Data: The primary <ahttps://github.com/Victoria-Uwegba/FNP-SALES-ANALYSIS/blob/main/fnp%20excel%20file.xlsx>dataset<a/> for this analysis which contains detailed information on the products sold, customer orders, and customer details provided by the company.
+Sales Data: The primary <a href="https://github.com/Victoria-Uwegba/FNP-SALES-ANALYSIS/blob/main/fnp%20excel%20file.xlsx">dataset<a/> for this analysis which contains detailed information on the products sold, customer orders, and customer details provided by the company.
 
 ### Data Collected
 
