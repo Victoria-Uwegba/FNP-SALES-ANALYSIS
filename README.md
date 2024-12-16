@@ -66,6 +66,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 
   ### Data Analysis
   (https://github.com/Victoria-Uwegba/FNP-SALES-ANALYSIS/blob/main/fnp%20sales%20report.PNG)
+  https://github.com/Victoria-Uwegba/FNP-SALES-ANALYSIS/blob/main/fnp%20sales%20report.PNG
   
 
 
