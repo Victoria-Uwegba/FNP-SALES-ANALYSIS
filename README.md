@@ -7,7 +7,7 @@
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Recommendation](#recommendation)
+[Project Insights](#Project-Insights)
 
 
 ### Project Overview
