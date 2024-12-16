@@ -46,8 +46,9 @@ In this phase of data preparation, the following actions were performed:
 1. Data Loading and Inspection using Power Query.
 2. Removing of duplicates
 3. Creating new entries from an existing column
-4. Created pivot tables according to the questions asked.
-5. Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+4. Changing the data type of the variables to the appropriate one
+5. Created pivot tables according to the questions asked.
+6. Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 
 
