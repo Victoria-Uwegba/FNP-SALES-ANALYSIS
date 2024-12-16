@@ -1,4 +1,4 @@
-# FNP-SALES-ANALYSIS
+# FNP-SALES-ANALYSIS (Using MS Excel)
 ---
 ### Table of Content
 ---
@@ -16,7 +16,7 @@ This project focuses on analyzing the sales performance of Ferns N Petals (FNP),
 
 ### Data Sources
 
-Sales Data: The primary dataset for this analysis is the *"Fnpsales_data.csv"* file, which contains detailed information on the products sold, customer orders, and customer details provided by the company.
+Sales Data: The primary dataset for this analysis is the  file, which contains detailed information on the products sold, customer orders, and customer details provided by the company.
 
 ### Data Collected
 
@@ -24,7 +24,7 @@ Sales Data: The primary dataset for this analysis is the *"Fnpsales_data.csv"* f
    
 2. Customer ID: The identification numbers of customers who purchased a product.
 
-3. Product type: The types of product sold (e.g Flowers,Cake, Chocolate etc)
+3. Product type: The types of product sold (e.g Flowers, Cake, Chocolate, etc)
 
 4. Order date: The date a particular product was ordered.
 
@@ -32,7 +32,7 @@ Sales Data: The primary dataset for this analysis is the *"Fnpsales_data.csv"* f
 
 6. Unit Price: How much a unit of each product is sold.
 
-7. Occassion:  The different type of occasion people orders the product.
+7. Occassion:  The different types of occasions people order the products.
    
 ### Tools Used
 - **Microsoft Excel**: The data was analyzed using **Microsoft Excel** and **Power Query** to clean and prepare the dataset. **Pivot Tables** were utilized to organize, summarize, and filter the data, enabling easier interpretation and insightful analysis. [Download Here](https://www.microsoft.com)
@@ -43,29 +43,26 @@ Sales Data: The primary dataset for this analysis is the *"Fnpsales_data.csv"* f
 ### Data Preparation
 In this phase of data preparation, the following actions were performed:
 
-1. Data Loading and Inspection
+1. Data Loading and Inspection using Power Query.
 2. Removing of duplicates
 3. Creating new entries from an existing column
+4. Created pivot tables according to the questions asked.
+5. Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
-![image](https://github.com/user-attachments/assets/2b969c83-3a63-43a2-a39e-84f26987ac78)
+
 
 ### Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions, such as:
-- retrieve the total sales for each product category.
-
-- find the number of sales transactions in each region.
-
-- find the highest-selling product by total sales value.
-
-- calculate total revenue per product.
-
-- calculate monthly sales totals for the current year.
-
-- find the top 5 customers by total purchase amount.
-
-- calculate the percentage of total sales contributed by each region.
-
-- identify products with no sales in the last quarter.
+- Total Revenue: Identify the overall revenue.
+- Average Order and Delivery Time: Evaluate the time taken for orders to be delivered.
+- Monthly Sales Performance: Examine how sales fluctuate across the months of 2023.
+- Top Products by Revenue: Determine which products are the top revenue generators.
+- Customer Spending Analysis: Understand how much customers are spending on average.
+- Sales Performance by Top 5 Products: Track the sales performance of top 5 products.
+- Top 10 Cities by Number of Orders: Find out which cities are placing the highest number of orders.
+- Order Quantity vs. Delivery Time: Analyze if higher order quantities impact delivery times.
+- Revenue Comparison Between Occasions: Compare revenue generated across different occasions.
+- Product Popularity by Occasion: Identify which products are most popular during specific occasions.
 
   ### Data Analysis
 
