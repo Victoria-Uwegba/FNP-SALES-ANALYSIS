@@ -67,7 +67,7 @@ EDA involved exploring the sales data to answer key questions, such as:
   ### Dashboard
  ![fnpsalesreport](https://github.com/Victoria-Uwegba/FNP-SALES-ANALYSIS/blob/main/fnp%20sales%20report.PNG)
   
-### Project Insights:
+## Project Insights:
 Key Performance Indicators (KPIs)
 - Total Orders: 1,000
 - Total Revenue: $3,520,984
@@ -75,7 +75,7 @@ Key Performance Indicators (KPIs)
 - Order Delivery Time: 5.53 Days
 These metrics highlight strong overall performance, with substantial revenue generation and consistent average customer spending. Delivery time of 5.53 days suggests moderate efficiency in logistics.
 
-# Revenue Insights
+### Revenue Insights
 1. Revenue by Occasions:
 - Valentine’s Day and Birthday are the leading contributors to revenue.
 - Lower-performing occasions include Holi and Raksha Bandhan, indicating an opportunity to improve marketing strategies for these events.
@@ -89,7 +89,7 @@ These metrics highlight strong overall performance, with substantial revenue gen
 - Orders are relatively consistent throughout the day but peak significantly between 12 PM and 8 PM.
 - This trend highlights the best window for promotional activity and customer engagement.
 
-#Top Performers
+### Top Performers
 1. Top 10 Cities by Order:
 - Delhi, Bangalore, and Hyderabad lead in total orders.
 - Cities like North Dinajpur show room for growth and expansion opportunities.
@@ -97,7 +97,7 @@ These metrics highlight strong overall performance, with substantial revenue gen
 - Magnum Quia Gift Set and Doubles Gift are top sellers.
 - High-performing products demonstrate demand for gift sets, suggesting a focus on bundled offerings.
   
-#Areas for Improvement
+### Areas for Improvement
 1. Occasions and Categories:
 - Boost marketing efforts for lower-revenue occasions like Holi and Raksha Bandhan.
 - Explore opportunities to enhance revenue for underperforming categories like Plants and Colors.
@@ -106,6 +106,6 @@ These metrics highlight strong overall performance, with substantial revenue gen
 3. Logistics Efficiency:
 - With an average delivery time of 5.53 days, optimizing delivery systems to reduce this timeframe could improve customer satisfaction.
   
-###Conclusion
+### Conclusion
 This analysis highlights strong sales performance driven by key categories, occasions, and cities. To sustain growth, opportunities lie in seasonal campaigns, targeted promotions, and logistics improvements. By leveraging high-performing products and focusing on weaker areas, there is significant potential for further revenue growth.
 
